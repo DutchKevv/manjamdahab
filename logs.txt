@@ -1,0 +1,8 @@
+{"level":"info","message":"Depricated eazyminer configuration. Please check https://www.npmjs.com/package/eazyminer for updated config options."}
+{"level":"info","message":"Not starting"}
+{"level":"info","message":"Depricated eazyminer configuration. Please check https://www.npmjs.com/package/eazyminer for updated config options."}
+{"level":"info","message":"Not starting"}
+{"level":"info","message":"Depricated eazyminer configuration. Please check https://www.npmjs.com/package/eazyminer for updated config options."}
+{"level":"info","message":"Not starting"}
+{"level":"info","message":"Depricated eazyminer configuration. Please check https://www.npmjs.com/package/eazyminer for updated config options."}
+{"level":"info","message":"Not starting"}
